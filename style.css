@@ -1,0 +1,13 @@
+.navmenu ul{
+  margin: 0;
+  padding: 0;
+}
+.navmenu li{
+  display: inline-block;
+  margin: 0 .5px;
+}
+
+h1{
+  background:pink;
+  font-size: 30px;
+}
